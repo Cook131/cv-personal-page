@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jorge-luis-najera-espinosa-past-projects/"}
+{"dg-publish":true,"permalink":"/jorge-luis-najera-espinosa-past-projects/","tags":["gardenEntry"]}
 ---
 
 ## [[Lebotics\|Lebotics]]
