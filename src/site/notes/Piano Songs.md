@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/piano-songs/"}
 ---
 
+> My Keyboard set back at home
+
+![Pasted image 20250212021001.png|400](/img/user/imagenes/Pasted%20image%2020250212021001.png)
 #### Songs I've Learnt (still need rehearse)
 
 Song of Storms - The Legend of Zelda Series
@@ -19,5 +22,3 @@ Just the Two of Us - Bill Withers
 Art is Dead - Bo Burnham
 Claire de Lune - Debussy
 
-> My Keyboard set back at home
-![Pasted image 20250212021001.png](/img/user/imagenes/Pasted%20image%2020250212021001.png)
