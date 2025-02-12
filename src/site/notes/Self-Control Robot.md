@@ -14,8 +14,10 @@ Fifth semester's final project for Dr. Alfonso Ávila's class on advanced embedd
 > [Electronics Repository](https://github.com/CEJ2-Robotics/JO1_Electronics)
 > [Control Repository ](https://github.com/CEJ2-Robotics/JO1_Control.git)
 
+
 > [Research Paper](https://docs.google.com/document/d/1-Lp5cSIEmAinlWhfnXFWSenTsRBmVe9RvbURuot7qUM/edit?tab=t.0)
 ![Pasted image 20250212103157.png](/img/user/imagenes/Pasted%20image%2020250212103157.png)
+
 
 > Final 3D Model For the designed PCB and fabricated/tuned PCB
 
