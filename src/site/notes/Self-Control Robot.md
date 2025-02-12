@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/self-control-robot/"}
 ---
 
-Fifth semester's final project for Dr. Alfonso Ávila's class on advanced embedded systems. 
+Fifth semester's final project for Dr. Alfonso Ávila's class on advanced embedded systems. For the class challenge we had to implement at least two or three different interfaces that could control two DC motors and a Servomotor to follow a certain route. We chose to control our cart through UART and Hardcoding (CAN) interfaces, making a system as denoted in the graphic below that uses different actuators 
 
-![](https://youtu.be/gFDlEiFDrms)
+![[Captura de pantalla 2025-02-12 a la(s) 9.28.30 a.m..png](https://youtu.be/gFDlEiFDrms)
 
 >Final Model
 
