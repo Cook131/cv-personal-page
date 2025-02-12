@@ -6,6 +6,8 @@
 
 ## [[Iktan Roving\|Iktan Roving]]
 
+## [[Voltec FRC\|Voltec FRC]]
+
 ## [[AquaSmart\|AquaSmart]]
 
 ## [[Self-Control Robot\|Self-Control Robot]]
@@ -17,4 +19,4 @@
 
 ## Hobbie Projects
  ### [[DnD Wiki\|DnD Wiki]]
- ### [[Chromocopia Medley\|Chromocopia Medley]]
+ ### [[Piano Songs\|Piano Songs]]
