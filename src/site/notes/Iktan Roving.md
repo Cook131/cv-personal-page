@@ -20,14 +20,15 @@ While in the telemetry team, I ended up also helping the tool design team. By gi
 
 > Final Proof of the Telemetry Set
 
-![](https://youtu.be/KBCHVpA8xRI)
+![Pasted image 20250212105007.png](/img/user/Pasted%20image%2020250212105007.png)
+(https://youtu.be/KBCHVpA8xRI)
 
 ---
 
 > Some of the First Vial Carrier Models
 
 ![39F0302F-5EAA-4875-90D5-0E1911E7D44E.jpeg](/img/user/imagenes/39F0302F-5EAA-4875-90D5-0E1911E7D44E.jpeg)
-![Pasted image 20250212092740.png](/img/user/imagenes/Pasted%20image%2020250212092740.png)
+![Pasted image 20250212104927.png](/img/user/Pasted%20image%2020250212104927.png)
 (https://youtu.be/xTlP2zAAGag)
 
 ---
