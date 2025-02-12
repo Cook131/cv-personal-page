@@ -6,7 +6,7 @@
 
 ## [[Iktan Roving\|Iktan Roving]]
 
-## [[Voltec FRC\|Voltec FRC]]
+## [[Voltec FTC\|Voltec FTC]]
 
 ## [[AquaSmart\|AquaSmart]]
 
