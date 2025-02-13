@@ -20,7 +20,8 @@ While in the telemetry team, I ended up also helping the tool design team. By gi
 
 > Final Proof of the Telemetry Set
 
-<iframe width="560" height="315" src="https://youtu.be/KBCHVpA8xRI" title="YouTube video player" frameborder="0" allow="accelerometer; encrypted-media; clipboard-write; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Pasted image 20250212105007.png](/img/user/imagenes/Pasted%20image%2020250212105007.png)
+https://youtu.be/KBCHVpA8xRI
 
 
 ---
@@ -28,8 +29,8 @@ While in the telemetry team, I ended up also helping the tool design team. By gi
 > Some of the First Vial Carrier Models
 
 ![39F0302F-5EAA-4875-90D5-0E1911E7D44E.jpeg](/img/user/imagenes/39F0302F-5EAA-4875-90D5-0E1911E7D44E.jpeg)
-<iframe width="560" height="315" src="https://youtu.be/xTlP2zAAGag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+![Pasted image 20250212104955.png](/img/user/imagenes/Pasted%20image%2020250212104955.png)
+https://youtu.be/xTlP2zAAGag
 
 ---
 
