@@ -10,7 +10,7 @@ Fifth semester's final project for Dr. Alfonso Ávila's class on advanced embedd
 
 ---
 
-![Captura de pantalla 2025-02-12 a la(s) 9.28.30 a.m..png](/img/user/imagenes/Captura%20de%20pantalla%202025-02-12%20a%20la(s)%209.28.30%20a.m..png)(https://youtu.be/gFDlEiFDrms)
+<iframe width="560" height="315" src="https://youtu.be/gFDlEiFDrms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
