@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/research-at-hertfordshire-university-2025/"}
 ---
 
-![video_miniatura.png](/img/user/imagenes/video_miniatura.png)
-
-
+![](https://youtu.be/PO_Oujd9IJE?si=YZsR1_sa_URyOwzR)
 
 
 <div class="carousel-container">
