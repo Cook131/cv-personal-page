@@ -45,7 +45,7 @@ https://youtu.be/xTlP2zAAGag
 
 
 ![Pasted image 20250211234158.png](/img/user/imagenes/Pasted%20image%2020250211234158.png)
-> We appeared in the NASA bulletin
+> We appeared in the NASA bulletin!!!!
 
 [2023 Article](https://conecta.tec.mx/en/news/cuernavaca/education/mexicans-win-2-nasa-challenge-awards)
 

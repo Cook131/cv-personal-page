@@ -2,21 +2,20 @@
 {"dg-publish":true,"permalink":"/jorge-luis-najera-espinosa-past-projects/","tags":["gardenEntry"]}
 ---
 
-## [[Lebotics\|Lebotics]]
+# [[Lebotics\|Lebotics]]
+# [[Iktan Roving\|Iktan Roving]]
+# [[Research at Hertfordshire University (2025)\|Research at Hertfordshire University (2025)]]
 
-## [[Iktan Roving\|Iktan Roving]]
+--------
+### [[Voltec FTC\|Voltec FTC]]
 
-## [[Voltec FTC\|Voltec FTC]]
+### [[AquaSmart\|AquaSmart]]
 
-## [[AquaSmart\|AquaSmart]]
+### [[Self-Control Robot\|Self-Control Robot]]
 
-## [[Self-Control Robot\|Self-Control Robot]]
-
-## [[Tec-Express Mobile\|Tec-Express Mobile]]
-
+### [[John Deere Simulation\|John Deere Simulation]]
 
 ---
-
 ## Hobbie Projects
- ### [[DnD Wiki\|DnD Wiki]]
- ### [[Piano Songs\|Piano Songs]]
+#### [[Collaborative Creative Writing Project(s) Headed by Jorge L. Najera\|Collaborative Creative Writing Project(s) Headed by Jorge L. Najera]]
+#### [[Trekking\|Trekking]]

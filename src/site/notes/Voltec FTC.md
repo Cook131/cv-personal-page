@@ -13,7 +13,7 @@
 
 ---
 
-> Original Syllabus Plan
+> Syllabus Plan
 
 ![Pasted image 20250212013217.png](/img/user/imagenes/Pasted%20image%2020250212013217.png)
 
