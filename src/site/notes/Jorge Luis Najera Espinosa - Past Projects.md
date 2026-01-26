@@ -13,7 +13,7 @@
 
 ### [[Self-Control Robot\|Self-Control Robot]]
 
-### [[John Deere Simulation\|John Deere Simulation]]
+
 
 ---
 ## Hobbie Projects
