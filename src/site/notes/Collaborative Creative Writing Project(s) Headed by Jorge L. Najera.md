@@ -11,6 +11,7 @@ We've played the same campaign (after inviting some more friends to the group) e
 
 As I mentioned before, I also began working on some stories of my own and investigating into the different subject that each story touches. Mainly basing myself on the lives of some of my closest friends. I talk to them about their experiences and investigate on my own the locations, events and/or nuances about and around them. From their jobs to the context behind the scenes that conform their lives. Aside from these stories, I also have intended to keep some other projects open on the side. So, whenever I have some time and friends interested, I like to write little "One Shots" (or short stories) based on/around museums and historical places. Their contents and events that occurred inside them.
 
-| ![[IMG_2168 1.jpg\|500]] | ![[IMG_1919.jpg\|500]] |
-| ------------------------ | ---------------------- |
-| ![[IMG_1695 1.jpg\|300]] | ![[IMG_1818.jpg]]      |
+
+| ![[IMG_1695 1.jpg\|300]] | ![[IMG_2168 1.jpg\|700]] |
+| ------------------------ | ------------------------ |
+| ![[IMG_1919.jpg\|500]]   | ![[IMG_1818.jpg\|300]]   |
