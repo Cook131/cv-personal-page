@@ -8,6 +8,7 @@
 
 <div class="carousel-container"> 
 <div class="carousel-track">
+
 ![imagenes/IMG_7831.jpg](/img/user/imagenes/IMG_7831.jpg) 
 ![imagenes/IMG_7822.jpg](/img/user/imagenes/IMG_7822.jpg) 
 ![imagenes/IMG_7820.jpg](/img/user/imagenes/IMG_7820.jpg) 
@@ -32,45 +33,10 @@
 ![imagenes/IMG_6559.jpg](/img/user/imagenes/IMG_6559.jpg)
 ![imagenes/IMG_6558.jpg](/img/user/imagenes/IMG_6558.jpg)
 ![imagenes/IMG_7753.jpg](/img/user/imagenes/IMG_7753.jpg)
+
 </div>
 </div>
 
-<style>
-.carousel-container {
-  overflow: hidden;
-  width: 100%;
-  margin: 20px 0;
-  border-radius: 10px;
-}
-
-.carousel-track {
-  display: flex;
-  animation: scroll 30s linear infinite;
-  width: fit-content;
-}
-
-.carousel-track img {
-  height: 300px;
-  width: auto;
-  object-fit: cover;
-  margin-right: 15px;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-}
-
-@keyframes scroll {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
-}
-
-.carousel-track:hover {
-  animation-play-state: paused;
-}
-</style>
 
 This exploratory mindset translated directly into my academic pursuits during my exchange semester in the latter half of 2025, when I worked alongside the research team at the XR Lab in the University of Hertfordshire. I relocated to Hatfield as the inaugural participant in a new "research and professional exchange" program, which presented unique challenges given the absence of predetermined structure or established protocols. Despite the initial uncertainty and limited guidance, I navigated the ambiguity of the position and developed a substantive research project from conception through near-completion. Between September and mid-November, I independently conceptualized and executed "Creation and Comparative of a Gesticular-Based Controller on Drone Tele-Operations," a project examining human-machine interfaces in unmanned aerial vehicle control. The work involved developing a VR simulation environment in Unity that enabled drone operation through both conventional controllers and novel finger-tracking technology, implementing PID control algorithms to transform biometric finger-position data into precise flight commands. While time constraints prevented completion of the full scientific paper within the 2025 calendar year, the project represents a significant contribution to research on intuitive control systems and accessibility in drone teleoperation.
 

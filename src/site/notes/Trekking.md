@@ -45,42 +45,6 @@
 </div>
 </div>
 
-<style>
-.carousel-container {
-  overflow: hidden;
-  width: 100%;
-  margin: 20px 0;
-  border-radius: 10px;
-}
-
-.carousel-track {
-  display: flex;
-  animation: scroll 30s linear infinite;
-  width: fit-content;
-}
-
-.carousel-track img {
-  height: 300px;
-  width: auto;
-  object-fit: cover;
-  margin-right: 15px;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-}
-
-@keyframes scroll {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-50%);
-  }
-}
-
-.carousel-track:hover {
-  animation-play-state: paused;
-}
-</style>
 
 From an early age, I demonstrated a natural inclination toward exploration and adventure; traits my family recognized from the moment I began walking. This inherent curiosity and active disposition characterized my formative years, though it necessarily receded during my initial university period when academic commitments demanded considerable time and focus. Relocating to Monterrey to continue my studies marked a significant turning point in this regard. The city's proximity to the Sierra Madre mountains and its diverse natural surroundings rekindled my longstanding passion for outdoor exploration. This transition represented not merely a change of academic setting, but a reconnection with fundamental aspects of my character that had been temporarily set aside.
 
