@@ -9,7 +9,7 @@ Fifth semester's final project for Dr. Alfonso Ávila's class on advanced embedd
 > [Control Repository ](https://github.com/CEJ2-Robotics/JO1_Control.git)
 
 ---
-[![](https://youtu.be/gFDlEiFDrms.jpg)](https://youtu.be/gFDlEiFDrms)
+![(https://youtu.be/gFDlEiFDrms.jpg)](https://youtu.be/gFDlEiFDrms)
 
 
 ---
