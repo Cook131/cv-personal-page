@@ -2,36 +2,36 @@
 {"dg-publish":true,"permalink":"/research-at-hertfordshire-university-2025/"}
 ---
 
-![[Pasted image 20260127001944.png](https://youtu.be/PO_Oujd9IJE?si=YZsR1_sa_URyOwzR)
-
+[![](https://img.youtube.com/vi/PO_Oujd9IJE/0.jpg)](https://youtu.be/PO_Oujd9IJE)
+[^Ver_video_en_youtube]
 
 <div class="carousel-container">
   <div class="carousel-track">
-    <img src="imagenes/IMG_7831.jpg" alt="Imagen 1">
-    <img src="imagenes/IMG_7822.jpg" alt="Imagen 2">
-    <img src="imagenes/IMG_7820.jpg" alt="Imagen 3">
-    <img src="imagenes/IMG_7770.jpg" alt="Imagen 4">
-    <img src="imagenes/IMG_7582.jpg" alt="Imagen 5">
-    <img src="imagenes/IMG_7187.jpg" alt="Imagen 6">
-    <img src="imagenes/IMG_7099.jpg" alt="Imagen 7">
-    <img src="imagenes/IMG_6684.jpg" alt="Imagen 8">
-    <img src="imagenes/IMG_6561.jpg" alt="Imagen 9">
-    <img src="imagenes/IMG_6559.jpg" alt="Imagen 10">
-    <img src="imagenes/IMG_6558.jpg" alt="Imagen 11">
-    <img src="imagenes/IMG_7753.jpg" alt="Imagen 12">
+    <img src="src/site/img/user/imagenes/IMG_7831.jpg" >
+    <img src="src/site/img/user/imagenes/IMG_7822.jpg" alt="Imagen 2">
+    <img src="src/site/img/user/imagenes/IMG_7820.jpg" alt="Imagen 3">
+    <img src="src/site/img/user/imagenes/IMG_7770.jpg" alt="Imagen 4">
+    <img src="src/site/img/user/imagenes/IMG_7582.jpg" alt="Imagen 5">
+    <img src="src/site/img/user/imagenes/IMG_7187.jpg" alt="Imagen 6">
+    <img src="src/site/img/user/imagenes/IMG_7099.jpg" alt="Imagen 7">
+    <img src="src/site/img/user/imagenes/IMG_6684.jpg" alt="Imagen 8">
+    <img src="src/site/img/user/imagenes/IMG_6561.jpg" alt="Imagen 9">
+    <img src="src/site/img/user/imagenes/IMG_6559.jpg" alt="Imagen 10">
+    <img src="src/site/img/user/imagenes/IMG_6558.jpg" alt="Imagen 11">
+    <img src="src/site/img/user/imagenes/IMG_7753.jpg" alt="Imagen 12">
     <!-- Duplicado para loop infinito -->
-    <img src="imagenes/IMG_7831.jpg" alt="Imagen 1">
-    <img src="imagenes/IMG_7822.jpg" alt="Imagen 2">
-    <img src="imagenes/IMG_7820.jpg" alt="Imagen 3">
-    <img src="imagenes/IMG_7770.jpg" alt="Imagen 4">
-    <img src="imagenes/IMG_7582.jpg" alt="Imagen 5">
-    <img src="imagenes/IMG_7187.jpg" alt="Imagen 6">
-    <img src="imagenes/IMG_7099.jpg" alt="Imagen 7">
-    <img src="imagenes/IMG_6684.jpg" alt="Imagen 8">
-    <img src="imagenes/IMG_6561.jpg" alt="Imagen 9">
-    <img src="imagenes/IMG_6559.jpg" alt="Imagen 10">
-    <img src="imagenes/IMG_6558.jpg" alt="Imagen 11">
-    <img src="imagenes/IMG_7753.jpg" alt="Imagen 12">
+    <img src="src/site/img/user/imagenes/IMG_7831.jpg" alt="Imagen 1">
+    <img src="src/site/img/user/imagenes/IMG_7822.jpg" alt="Imagen 2">
+    <img src="src/site/img/user/imagenes/IMG_7820.jpg" alt="Imagen 3">
+    <img src="src/site/img/user/imagenes/IMG_7770.jpg" alt="Imagen 4">
+    <img src="src/site/img/user/imagenes/IMG_7582.jpg" alt="Imagen 5">
+    <img src="src/site/img/user/imagenes/IMG_7187.jpg" alt="Imagen 6">
+    <img src="src/site/img/user/imagenes/IMG_7099.jpg" alt="Imagen 7">
+    <img src="src/site/img/user/imagenes/IMG_6684.jpg" alt="Imagen 8">
+    <img src="src/site/img/user/imagenes/IMG_6561.jpg" alt="Imagen 9">
+    <img src="src/site/img/user/imagenes/IMG_6559.jpg" alt="Imagen 10">
+    <img src="src/site/img/user/imagenes/IMG_6558.jpg" alt="Imagen 11">
+    <img src="src/site/img/user/imagenes/IMG_7753.jpg" alt="Imagen 12">
   </div>
 </div>
 
