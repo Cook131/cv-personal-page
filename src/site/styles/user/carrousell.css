@@ -1,0 +1,60 @@
+/* Contenedor del carrusel */
+.carousel-container {
+  overflow: hidden;
+  width: 100%;
+  margin: 20px 0;
+  border-radius: 10px;
+  background: transparent;
+}
+
+/* Track de imágenes */
+.carousel-track {
+  display: flex;
+  animation: scroll 30s linear infinite;
+  width: fit-content;
+  gap: 15px;
+}
+
+/* Estilos para imágenes embebidas de Obsidian */
+.carousel-track img,
+.carousel-track .image-embed img,
+.carousel-track span.image-embed img {
+  height: 300px !important;
+  width: auto !important;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  margin: 0 !important;
+  display: inline-block !important;
+}
+
+/* Para los spans que envuelven las imágenes en Obsidian */
+.carousel-track .image-embed,
+.carousel-track span.image-embed {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  height: 300px;
+}
+
+/* Animación del scroll */
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Pausa al hover */
+.carousel-track:hover {
+  animation-play-state: paused;
+}
+
+/* Asegura que funcione en modo lectura y edición */
+.markdown-preview-view .carousel-track,
+.markdown-source-view .carousel-track {
+  display: flex;
+  animation: scroll 30s linear infinite;
+}
