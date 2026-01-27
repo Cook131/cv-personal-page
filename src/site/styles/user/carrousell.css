@@ -9,16 +9,27 @@
 
 /* Track de imágenes */
 .carousel-track {
-  display: flex;
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
   animation: scroll 30s linear infinite;
   width: fit-content;
   gap: 15px;
+  align-items: center;
+}
+
+/* Quitar los párrafos que Obsidian crea alrededor de las imágenes */
+.carousel-track p {
+  display: inline-block !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 /* Estilos para imágenes embebidas de Obsidian */
 .carousel-track img,
 .carousel-track .image-embed img,
-.carousel-track span.image-embed img {
+.carousel-track span.image-embed img,
+.carousel-track p img {
   height: 300px !important;
   width: auto !important;
   object-fit: cover;
@@ -26,15 +37,17 @@
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   margin: 0 !important;
   display: inline-block !important;
+  vertical-align: middle !important;
 }
 
 /* Para los spans que envuelven las imágenes en Obsidian */
 .carousel-track .image-embed,
 .carousel-track span.image-embed {
-  display: inline-block;
-  margin: 0;
-  padding: 0;
+  display: inline-block !important;
+  margin: 0 !important;
+  padding: 0 !important;
   height: 300px;
+  vertical-align: middle;
 }
 
 /* Animación del scroll */
@@ -54,7 +67,9 @@
 
 /* Asegura que funcione en modo lectura y edición */
 .markdown-preview-view .carousel-track,
-.markdown-source-view .carousel-track {
-  display: flex;
+.markdown-source-view .carousel-track,
+.markdown-rendered .carousel-track {
+  display: flex !important;
+  flex-direction: row !important;
   animation: scroll 30s linear infinite;
 }
