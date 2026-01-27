@@ -3,7 +3,7 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-}
+
 
 .carousel-container {
   overflow: hidden;
@@ -55,4 +55,6 @@ body {
 
 .carousel-track:hover {
   animation-play-state: paused;
+}
+    
 }
