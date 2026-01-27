@@ -1,13 +1,53 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+.carousel-container {
+  overflow: hidden;
+  width: 100%;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+.carousel-track {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  animation: scroll 30s linear infinite;
+  width: fit-content;
+  gap: 15px;
+}
+
+.carousel-track p {
+  display: inline-block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.carousel-track img {
+  height: 300px !important;
+  width: auto !important;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  margin: 0 15px 0 0 !important;
+  display: inline-block !important;
+  vertical-align: middle !important;
+}
+
+.carousel-track .image-embed {
+  display: inline-block !important;
+  margin: 0 !important;
+  height: 300px;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.carousel-track:hover {
+  animation-play-state: paused;
+}
 }
