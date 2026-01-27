@@ -4,44 +4,42 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
 
-
-.carousel-container {
-  overflow: hidden;
-  width: 100%;
-  margin: 20px 0;
-  border-radius: 10px;
+    
+div.carousel-container {
+  overflow: hidden !important;
+  width: 100% !important;
+  margin: 20px 0 !important;
+  border-radius: 10px !important;
 }
 
-.carousel-track {
+div.carousel-track {
   display: flex !important;
   flex-direction: row !important;
   flex-wrap: nowrap !important;
-  animation: scroll 30s linear infinite;
-  width: fit-content;
-  gap: 15px;
+  animation: scroll 30s linear infinite !important;
+  width: max-content !important;
+  gap: 0 !important;
 }
 
-.carousel-track p {
-  display: inline-block !important;
+div.carousel-track > p {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
   margin: 0 !important;
   padding: 0 !important;
+  gap: 15px !important;
 }
-
-.carousel-track img {
+    
+div.carousel-track img {
   height: 300px !important;
   width: auto !important;
-  object-fit: cover;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  margin: 0 15px 0 0 !important;
-  display: inline-block !important;
-  vertical-align: middle !important;
-}
-
-.carousel-track .image-embed {
-  display: inline-block !important;
+  max-width: none !important;
+  object-fit: cover !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1) !important;
   margin: 0 !important;
-  height: 300px;
+  padding: 0 !important;
+  flex-shrink: 0 !important;
 }
 
 @keyframes scroll {
@@ -53,8 +51,8 @@ body {
   }
 }
 
-.carousel-track:hover {
-  animation-play-state: paused;
+div.carousel-track:hover {
+  animation-play-state: paused !important;
 }
     
 }
