@@ -3,46 +3,46 @@
 ---
 
 <div class="carousel-container">
-  <div class="carousel-track">
-    <img src="src/site/img/user/imagenes/IMG_9298.jpg" alt="Imagen 1">
-    <img src="src/site/img/user/imagenes/IMG_2014.jpg" alt="Imagen 2">
-    <img src="src/site/img/user/imagenes/IMG_9498.jpg" alt="Imagen 3">
-    <img src="src/site/img/user/imagenes/IMG_9491.jpg" alt="Imagen 4">
-    <img src="src/site/img/user/imagenes/IMG_9441.jpg" alt="Imagen 5">
-    <img src="src/site/img/user/imagenes/IMG_9469.jpg" alt="Imagen 7">
-    <img src="src/site/img/user/imagenes/IMG_9412.jpg" alt="Imagen 8">
-    <img src="src/site/img/user/imagenes/IMG_9316.jpg" alt="Imagen 9">
-    <img src="src/site/img/user/imagenes/IMG_8283.jpg" alt="Imagen 10">
-    <img src="src/site/img/user/imagenes/IMG_8281.jpg" alt="Imagen 11">
-    <img src="src/site/img/user/imagenes/IMG_9310.jpg" alt="Imagen 12">
-    <img src="src/site/img/user/imagenes/IMG_9325.jpg" alt="Imagen 13">
-    <img src="src/site/img/user/imagenes/IMG_7609.jpg" alt="Imagen 14">
-    <img src="src/site/img/user/imagenes/IMG_9279.jpg" alt="Imagen 15">
-    <img src="src/site/img/user/imagenes/IMG_9272.jpg" alt="Imagen 16">
-    <img src="src/site/img/user/imagenes/IMG_8266.jpg" alt="Imagen 17">
-    <img src="src/site/img/user/imagenes/IMG_8231.jpg" alt="Imagen 18">
-    <img src="src/site/img/user/imagenes/IMG_7651.jpg" alt="Imagen 19">
-    
-    <!-- Duplicado para loop infinito -->
-    <img src="src/site/img/user/imagenes/IMG_9298.jpg" alt="Imagen 1">
-    <img src="src/site/img/user/imagenes/IMG_2014.jpg" alt="Imagen 2">
-    <img src="src/site/img/user/imagenes/IMG_9498.jpg" alt="Imagen 3">
-    <img src="src/site/img/user/imagenes/IMG_9491.jpg" alt="Imagen 4">
-    <img src="src/site/img/user/imagenes/IMG_9441.jpg" alt="Imagen 5">
-    <img src="src/site/img/user/imagenes/IMG_9469.jpg" alt="Imagen 7">
-    <img src="src/site/img/user/imagenes/IMG_9412.jpg" alt="Imagen 8">
-    <img src="src/site/img/user/imagenes/IMG_9316.jpg" alt="Imagen 9">
-    <img src="src/site/img/user/imagenes/IMG_8283.jpg" alt="Imagen 10">
-    <img src="src/site/img/user/imagenes/IMG_8281.jpg" alt="Imagen 11">
-    <img src="src/site/img/user/imagenes/IMG_9310.jpg" alt="Imagen 12">
-    <img src="src/site/img/user/imagenes/IMG_9325.jpg" alt="Imagen 13">
-    <img src="src/site/img/user/imagenes/IMG_7609.jpg" alt="Imagen 14">
-    <img src="src/site/img/user/imagenes/IMG_9279.jpg" alt="Imagen 15">
-    <img src="src/site/img/user/imagenes/IMG_9272.jpg" alt="Imagen 16">
-    <img src="src/site/img/user/imagenes/IMG_8266.jpg" alt="Imagen 17">
-    <img src="src/site/img/user/imagenes/IMG_8231.jpg" alt="Imagen 18">
-    <img src="src/site/img/user/imagenes/IMG_7651.jpg" alt="Imagen 19">
-  </div>
+<div class="carousel-track">
+
+![imagenes/IMG_9298.jpg](/img/user/imagenes/IMG_9298.jpg)
+![imagenes/IMG_2014.jpg](/img/user/imagenes/IMG_2014.jpg)
+![imagenes/IMG_9498.jpg](/img/user/imagenes/IMG_9498.jpg)
+![imagenes/IMG_9491.jpg](/img/user/imagenes/IMG_9491.jpg)
+![imagenes/IMG_9441.jpg](/img/user/imagenes/IMG_9441.jpg)
+![imagenes/IMG_9469.jpg](/img/user/imagenes/IMG_9469.jpg)
+![imagenes/IMG_9412.jpg](/img/user/imagenes/IMG_9412.jpg)
+![imagenes/IMG_9316.jpg](/img/user/imagenes/IMG_9316.jpg)
+![imagenes/IMG_8283.jpg](/img/user/imagenes/IMG_8283.jpg)
+![imagenes/IMG_8281.jpg](/img/user/imagenes/IMG_8281.jpg)
+![imagenes/IMG_9310.jpg](/img/user/imagenes/IMG_9310.jpg)
+![imagenes/IMG_9325.jpg](/img/user/imagenes/IMG_9325.jpg)
+![imagenes/IMG_7609.jpg](/img/user/imagenes/IMG_7609.jpg)
+![imagenes/IMG_9279.jpg](/img/user/imagenes/IMG_9279.jpg)
+![imagenes/IMG_9272.jpg](/img/user/imagenes/IMG_9272.jpg)
+![imagenes/IMG_8266.jpg](/img/user/imagenes/IMG_8266.jpg)
+![imagenes/IMG_8231.jpg](/img/user/imagenes/IMG_8231.jpg)
+![imagenes/IMG_7651.jpg](/img/user/imagenes/IMG_7651.jpg)
+![imagenes/IMG_9298.jpg](/img/user/imagenes/IMG_9298.jpg)
+![imagenes/IMG_2014.jpg](/img/user/imagenes/IMG_2014.jpg)
+![imagenes/IMG_9498.jpg](/img/user/imagenes/IMG_9498.jpg)
+![imagenes/IMG_9491.jpg](/img/user/imagenes/IMG_9491.jpg)
+![imagenes/IMG_9441.jpg](/img/user/imagenes/IMG_9441.jpg)
+![imagenes/IMG_9469.jpg](/img/user/imagenes/IMG_9469.jpg)
+![imagenes/IMG_9412.jpg](/img/user/imagenes/IMG_9412.jpg)
+![imagenes/IMG_9316.jpg](/img/user/imagenes/IMG_9316.jpg)
+![imagenes/IMG_8283.jpg](/img/user/imagenes/IMG_8283.jpg)
+![imagenes/IMG_8281.jpg](/img/user/imagenes/IMG_8281.jpg)
+![imagenes/IMG_9310.jpg](/img/user/imagenes/IMG_9310.jpg)
+![imagenes/IMG_9325.jpg](/img/user/imagenes/IMG_9325.jpg)
+![imagenes/IMG_7609.jpg](/img/user/imagenes/IMG_7609.jpg)
+![imagenes/IMG_9279.jpg](/img/user/imagenes/IMG_9279.jpg)
+![imagenes/IMG_9272.jpg](/img/user/imagenes/IMG_9272.jpg)
+![imagenes/IMG_8266.jpg](/img/user/imagenes/IMG_8266.jpg)
+![imagenes/IMG_8231.jpg](/img/user/imagenes/IMG_8231.jpg)
+![imagenes/IMG_7651.jpg](/img/user/imagenes/IMG_7651.jpg)
+
+</div>
 </div>
 
 <style>
