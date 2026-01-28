@@ -1,56 +1,43 @@
-/* Contenedor del carrusel */
-.carousel-container {
-  overflow: hidden;
-  width: 100%;
-  margin: 20px 0;
-  border-radius: 10px;
-  background: transparent;
+div.carousel-container {
+  overflow: hidden !important;
+  width: 100vw !important;  
+  margin-left: calc(-50vw + 50%) !important;  
+  margin-right: calc(-50vw + 50%) !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+  border-radius: 0 !important; 
 }
 
-/* Track de imágenes */
-.carousel-track {
+div.carousel-track {
   display: flex !important;
   flex-direction: row !important;
   flex-wrap: nowrap !important;
-  animation: scroll 30s linear infinite;
-  width: fit-content;
-  gap: 15px;
-  align-items: center;
+  animation: scroll 60s linear infinite !important;
+  width: max-content !important;
+  gap: 0 !important;
 }
 
-/* Quitar los párrafos que Obsidian crea alrededor de las imágenes */
-.carousel-track p {
-  display: inline-block !important;
+div.carousel-track > p {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
   margin: 0 !important;
   padding: 0 !important;
+  gap: 15px !important;
 }
-
-/* Estilos para imágenes embebidas de Obsidian */
-.carousel-track img,
-.carousel-track .image-embed img,
-.carousel-track span.image-embed img,
-.carousel-track p img {
+    
+div.carousel-track img {
   height: 300px !important;
   width: auto !important;
-  object-fit: cover;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  margin: 0 !important;
-  display: inline-block !important;
-  vertical-align: middle !important;
-}
-
-/* Para los spans que envuelven las imágenes en Obsidian */
-.carousel-track .image-embed,
-.carousel-track span.image-embed {
-  display: inline-block !important;
+  max-width: none !important;
+  object-fit: cover !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1) !important;
   margin: 0 !important;
   padding: 0 !important;
-  height: 300px;
-  vertical-align: middle;
+  flex-shrink: 0 !important;
 }
 
-/* Animación del scroll */
 @keyframes scroll {
   0% {
     transform: translateX(0);
@@ -60,9 +47,8 @@
   }
 }
 
-/* Pausa al hover */
-.carousel-track:hover {
-  animation-play-state: paused;
+div.carousel-track:hover {
+  animation-play-state: paused !important;
 }
 
 /* Asegura que funcione en modo lectura y edición */
