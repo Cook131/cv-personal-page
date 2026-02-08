@@ -1,0 +1,15 @@
+/* Justify main content text in Digital Garden */
+
+.markdown-preview-view p,
+.markdown-preview-view li,
+.markdown-preview-view blockquote,
+.markdown-preview-view {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+/* Optional: nicer spacing */
+.markdown-preview-view p {
+  line-height: 1.6;
+}
